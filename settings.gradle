@@ -1,4 +1,2 @@
 rootProject.name='MVVM-Clean-Architecture'
 include ':app'
-include ':app:domain'
-include ':app:data'
