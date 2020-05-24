@@ -1,4 +1,4 @@
-package me.dewari.ajay.domain2
+package me.dewari.ajay.domain
 
 import org.junit.Test
 
